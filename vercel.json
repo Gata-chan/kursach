@@ -1,0 +1,11 @@
+{
+    "routes": [
+      { "src": "/", "dest": "/Home" },
+      { "src": "/Home", "dest": "/Home" },
+      { "src": "/Homes", "dest": "/Homes" },
+      { "src": "/Contacts", "dest": "/Contacts" },
+      { "src": "/Holdings", "dest": "/Holdings" },
+      { "src": "/Services", "dest": "/Services" },
+      { "src": "/Login", "dest": "/Login" }
+    ]
+  }
